@@ -18,3 +18,4 @@ def to_camel_case(text):
 
 
 print(to_camel_case("в_-ыаыва"))
+print(to_camel_case("в_-ыаыва"))
