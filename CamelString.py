@@ -5,7 +5,7 @@ def to_camel_case(text):
     except Exception:
         return ''
 
-
+    # new comment
     # result = []
     # counter = 0
     # for word in text:
